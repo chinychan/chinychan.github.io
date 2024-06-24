@@ -51,7 +51,7 @@ Grant
 ======
 Sole Principle investigator (PI)
 1.	Start-up grant, City University of Hong Kong 
-2.	HyperfluorescenceTM Technology Innovation Project 2023
+2.	Hyperfluorescence<sup>TM<sup> Technology Innovation Project 2023
  
   
 Teaching

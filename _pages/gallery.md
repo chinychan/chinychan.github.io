@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<br/> <img src='/images/Photo_CHAN Chin-Yiu.jpg' width="180" height="200">
-
-Address
+Hot-Pot May 2024
 ======
-<br/> <img src='/images/Photo_CHAN Chin-Yiu.jpg' width="180" height="200">
+<br/> <img src='/images/Hotpot_may 2024.jpg' width="180" height="200">
 

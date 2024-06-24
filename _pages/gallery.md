@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hot-Pot May 2024
+Hot-Pot gathering (May 2024)
 ======
 <br/> <img src='/images/Hotpot_may 2024.jpg' width="300" height="300">
 

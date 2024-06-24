@@ -56,6 +56,7 @@ Sole Principle investigator (PI)
   
 Teaching
 ======
-MSE 6303 Corrosion and Surface Engineering	MSE 3171 Materials Characterization
+MSE 6303 Corrosion and Surface Engineering	
+MSE 3171 Materials Characterization
   
 

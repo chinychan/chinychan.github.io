@@ -1,6 +1,6 @@
 ---
 title: "Mr. Xiaolan Tan (RA)"
-excerpt: Msc (City University of Hong Kong, 2023),  [Email](mailto:xiaolan.tan@my.cityu.edu.hk) <br/><img src='/images/tan.jpg' width="200" height="180">
+excerpt: Msc (City University of Hong Kong, 2023),  [Email](mailto:xiaolan.tan@my.cityu.edu.hk) <br/><img src='/images/tan.jpg' width="150" height="130">
 collection: portfolio
 ---
 <div style="text-align: justify">

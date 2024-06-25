@@ -1,5 +1,5 @@
 ---
-title: "Dr. Yufang Li (Postdoc) "
+title: "Dr. Yufang Li (Postdoc) [Email](mailto:yufangli3-c@my.cityu.edu.hk) "
 excerpt: PhD (City University of Hong Kong, 2023) <br/><img src='/images/yufang_li.JPG' width="200" height="180">
 collection: portfolio
 ---
